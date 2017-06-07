@@ -1,1 +1,3 @@
-# belajar
+# **Belajar**
+
+A Git learning environment.
